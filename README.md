@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Software Engineering, Data Base, Electronics, Medical Computer Vision and more.
 - 💕 Nutrition, Training and Mental Health.
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/MarioCapodanno" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=MarioCapodanno&theme=dracula&hide_border=true" alt="Mario's Stats" >
   </a>
