@@ -1,5 +1,5 @@
 ### Hi everyone, I'm Mario 👋
 
-- 🔭 I’m in my third year of a bachelor's degree in Computer engineering at Politecnico di Milano.
-- 🌱 I’m currently learning Software Engineering, Data Base, Electronics, Medical Computer Vision and more.
+- 🔭 Msc in High Performance Computing at Politecnico di Milano and Msc in Computation Science at USI.
+- 🌱 I’m currently learning Numerical Analysis and Algebra for ML, Parallel computing and much more...
 - 💕 Nutrition, Training and Mental Health.
